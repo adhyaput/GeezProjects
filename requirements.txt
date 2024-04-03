@@ -37,7 +37,7 @@ jikanpy
 js2py
 justwatch
 lottie
-lxml
+lxml_html_clean
 markdown
 motor
 natsort
@@ -88,4 +88,4 @@ youtube-dl
 youtube-search
 youtube-search-python==1.4.9
 zipfile38
-lxml_html_clean
+
